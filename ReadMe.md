@@ -1,7 +1,5 @@
 STREJARU MIHAI-CRISTIAN
 
-GRUPA 252
-
 Cuprins
 
 [1. Utilitatea bazei de date](#utilitatea-bazei-de-date)
